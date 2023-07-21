@@ -1,4 +1,4 @@
-## #1.Introduce
+## #1. Introduce
 - 👋 Hi
 - 📫 contact : alstj991226@naver.com
 
