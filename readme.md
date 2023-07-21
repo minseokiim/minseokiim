@@ -1,5 +1,5 @@
 ## #1.Introduce
-프론트엔드 개발자를 준비하는 김민서입니다.
+hi~
 
 ## #2. Tech Stack
 <div>
