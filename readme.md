@@ -1,6 +1,8 @@
 ## #1.Introduce
-hi~
+- 👋 Hi
+- 📫 contact : alstj991226@naver.com
 
+  
 ## #2. Tech Stack
 <div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
