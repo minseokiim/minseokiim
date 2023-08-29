@@ -1,7 +1,7 @@
 ## #1. Introduce
 - 👋 Hi, I'm @minseokiim.
 I'm interested in Next.js lately.
-- 📫 contact : alstj991226@naver.com
+- 📫 contact : seoommm8@gmail.com
 
   
 ## #2. Tech Stack
