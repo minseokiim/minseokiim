@@ -1,6 +1,5 @@
 ## #1. Introduce
 - 👋 Hi, I'm @minseokiim.
-I'm interested in Next.js lately.
 - 📫 contact : seoommm8@gmail.com
 
   
