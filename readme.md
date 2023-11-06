@@ -18,7 +18,13 @@
 </span>
   <br/>
   
-## #3. Stats, Langs
+## #3. Studying
+<span>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+</span>
+
+## #4. Stats, Langs
 
 ![minseokiim's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokiim)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokiim&layout=compact)](https://github.com/minseokiim/github-readme-stats)
