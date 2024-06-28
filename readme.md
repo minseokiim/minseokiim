@@ -1,7 +1,7 @@
 ## #1. Introduce
 - 👋 Hi, I'm @minseokiim.
 - 📫 contact : seoommm8@gmail.com
-
+- dev Blog : https://kmmk808.tistory.com/
   
 ## #2. Tech Stack
 <span>
