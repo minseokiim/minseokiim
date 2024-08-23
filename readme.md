@@ -1,5 +1,5 @@
 ## #1. Introduce
-- 👋 Hi, I'm @minseokiim.
+- 👋 Hi, I'm minseo Kim.
 - 📫 contact Me : seoommm8@gmail.com
 - 💻 dev Blog : https://kmmk808.tistory.com/
   
@@ -18,7 +18,6 @@
 
 ## #3. Studying
 <span>
-
 <img src="https://img.shields.io/badge/react--querty-ff4154.svg?style=for-the-badge&logo=react-query&logoColor=white">
 <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
