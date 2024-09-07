@@ -15,10 +15,7 @@
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
 <img src="https://img.shields.io/badge/Styled Components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/react--querty-ff4154.svg?style=for-the-badge&logo=react-query&logoColor=white">
-<img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/S3-569a31?style=for-the-badge&logo=amazon%20s3&logoColor=white">
+<img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white">
 </span>
 
 
