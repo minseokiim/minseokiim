@@ -19,10 +19,3 @@
 <img src="https://img.shields.io/badge/react--querty-ff4154.svg?style=for-the-badge&logo=react-query&logoColor=white">
 <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white">
 </span>
-
-
- 
-## #3. Stats
-![minseokiim's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokiim&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokiim&layout=compact)](https://github.com/minseokiim/github-readme-stats)
-<br/>
