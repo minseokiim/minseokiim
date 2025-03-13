@@ -1,7 +1,8 @@
 ## #1. Introduce
-- 👋 Hi, I'm minseo Kim.
-- 📫 contact Me : seoommm8@gmail.com
-- 💻 dev Blog : https://kmmk808.tistory.com/
+- 👋 Hi, I'm Kylie Kim, a frontend developer focused on building user-friendly and intuitive web experiences.
+- 📫 Contact Me : seoommm8@gmail.com
+- 💻 Dev Blog : https://kmmk808.tistory.com/
+- 👩🏻‍💻 LinkedIn : https://www.linkedin.com/in/minseokiim/
 
   
 ## #2. Tech Stack
